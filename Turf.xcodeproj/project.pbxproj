@@ -75,6 +75,8 @@
 /* Begin PBXFileReference section */
 		11E726F926247D3900C1890B /* LocationCoordinate2DTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocationCoordinate2DTests.swift; sourceTree = "<group>"; };
 		11E7270B2624840900C1890B /* RadianCoordinate2DTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RadianCoordinate2DTests.swift; sourceTree = "<group>"; };
+		20A1E6382BEB5B1400000250 /* PrivacyInfo.xcprivacy */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = PrivacyInfo.xcprivacy; sourceTree = "<group>"; };
+		20A1E6392BEB5B2300000250 /* Turf.podspec */ = {isa = PBXFileReference; lastKnownFileType = text; path = Turf.podspec; sourceTree = SOURCE_ROOT; };
 		2B0BA0462947700A00402F81 /* Consumer.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Consumer.swift; path = Consumer/Consumer.swift; sourceTree = "<group>"; };
 		2B0BA0482947709200402F81 /* Consumer+WKT.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = "Consumer+WKT.swift"; path = "Consumer/Consumer+WKT.swift"; sourceTree = "<group>"; };
 		2B0BA04A29487A0400402F81 /* WKTTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WKTTests.swift; sourceTree = "<group>"; };
@@ -195,6 +197,8 @@
 				3A40B38126E48262004457C4 /* Simplifier.swift */,
 				7AA969AB21B98F8F009C57FE /* Spline.swift */,
 				3547ECF1200C3C78009DA062 /* Turf.swift */,
+				20A1E6382BEB5B1400000250 /* PrivacyInfo.xcprivacy */,
+				20A1E6392BEB5B2300000250 /* Turf.podspec */,
 			);
 			path = Turf;
 			sourceTree = "<group>";

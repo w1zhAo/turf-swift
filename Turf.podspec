@@ -44,5 +44,6 @@ Pod::Spec.new do |s|
   s.frameworks = 'CoreLocation'
 
   s.swift_version = "5.7"
+  s.resource_bundles = {'Turf' => ['Sources/Turf/PrivacyInfo.xcprivacy']}
 
 end
